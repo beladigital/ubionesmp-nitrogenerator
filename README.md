@@ -122,13 +122,13 @@ Contributions are what make the open source community such an amazing place to b
 5. Open a Pull Request
 ## Copyright
 
-© 2020 Drillenissen#4268 all rights reserved
+© 2021 UbiOne#7240 all rights reserved
 
 ## Contact
 
-Logicguy - [@Drillenissen#4268](https://www.discordapp.com) - logicguy.mailandcontact@gmail.com
+UbiOne - [@UbiOne#7240](https://www.discord.com/app) - ubionexd@gmail.com
 
-Project Link: [https://github.com/logicguy1/The-all-in-one-discord-tool](https://github.com/logicguy1/The-all-in-one-discord-tool)
+Project Link: [https://github.com/beladigital/ubionesmp-nitrogenerator](https://github.com/beladigital/ubionesmp-nitrogenerator)
 
 <!-- Statistics -->  
 
