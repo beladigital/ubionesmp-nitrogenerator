@@ -1,5 +1,5 @@
 <p align="center">
-<img src=https://img.shields.io/github/stars/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=blue />
+<img src=https://img.shields.io/github/stars/beladigital/ubionesmp-nitrogenerator?style=for-the-badge&logo=appveyor&color=blue />
 <img src=https://img.shields.io/github/forks/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=blue />
 <img src=https://img.shields.io/github/issues/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=informational />
 <img src=https://img.shields.io/github/issues-pr/logicguy1/Discord-Nitro-Generator-and-Checker?style=for-the-badge&logo=appveyor&color=informational />
@@ -10,7 +10,7 @@
     <img src="assets/logo.png" alt="Logo" width="150" height="150">
   </a>
   
-  <h3 align="center">Discord Nitro Generator and Checker</h3>
+  <h3 align="center">UbiOneSMP nitro generator</h3>
 
   <p align="center">
     A discord nitro generator and checker for all your nitro needs
